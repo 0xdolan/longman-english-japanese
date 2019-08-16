@@ -53,13 +53,13 @@ Download GoldenDict from below links as follows:
 
 **screenshots:**
 
-![screenshot 01](<https://raw.githubusercontent.com/dolanskurd/english_Japanese/master/img/Screenshots/Screenshot%20(1).jpg>)
+![screenshot 01](https://raw.githubusercontent.com/dolanskurd/english-japanese/master/img/Screenshots/Screenshot%20(1).png)
 
 [**Longman English Japanese Website**](https://www.ldoceonline.com/dictionary/english-Japanese/)
 
 **screenshot:**
 
-![Longman English Japanese Website](https://raw.githubusercontent.com/dolanskurd/english_Japanese/master/img/Screenshots/Longman_English_Japanese_website_screenshot.jpg)
+![Longman English Japanese Website](https://raw.githubusercontent.com/dolanskurd/english-japanese/master/img/Screenshots/Longman_English_Japanese_website_screenshot.png)
 
 ## Contact me
 
